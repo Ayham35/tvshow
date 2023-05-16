@@ -1,0 +1,26 @@
+
+#photo{
+    height: 600px;
+    width: 400px;
+    margin: 15px;
+    float: left;
+    background-color: aquamarine;
+}
+
+#myname, #profession{
+    color: darkblue;
+}
+
+#intro{
+    float: left;
+    text-align: justify;
+    margin: 5px;
+    width: 1440px;
+    margin-top: 17px;
+}
+
+#abouthead
+
+#nav{
+    float: right;
+}
